@@ -1,2 +1,2 @@
 # DeeplearningToy
-A toy for
+A toy for deep learning.
